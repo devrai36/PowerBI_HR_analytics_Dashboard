@@ -13,5 +13,5 @@ Professional Power BI Dashboard project using employees data, which helps the HR
 • Gained employee trust
 
 ## Final Dashboard
-![HR analystics dashboard](https://github.com/user-attachments/assets/6713333f-f73c-4040-b337-9bae97528669)
+![HR analytics power bi dashboard](https://github.com/user-attachments/assets/1ae23d0c-5bf1-4ac8-83fc-4b04a7e67c24)
 
